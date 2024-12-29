@@ -3,6 +3,9 @@
 * * *
 
 ## **Introduction**
+![image](https://github.com/user-attachments/assets/4dd47d7d-c919-4b82-94e4-730ee8bcd397)
+![image](https://github.com/user-attachments/assets/aea794ac-b65f-4771-a490-2292b7311557)
+![image](https://github.com/user-attachments/assets/749a76c8-f533-475c-a0c7-2d0966917ead)
 
 The `MyInvestor` is a React-based module that enables users to buy or sell stocks by interacting with a simple UI. It connects to a backend API to fetch stock details and perform stock transactions, updating the available share amount in the database in real-time.
 
