@@ -1,0 +1,12 @@
+import StockTable from "../components/StockTable"
+import DonutChart from "../components/DonutChart"
+import Layout from "../components/DashboardLayout"
+const HomeScreen = () => {
+  return (
+    <>      
+      <Layout/>   
+    </>
+  )
+}
+
+export default HomeScreen
